@@ -1,5 +1,5 @@
 # setup-gaming
-This script automates the installation of essential gaming tools on **Arch Linux** and Arch-based distributions (Nyarch, Manjaro, EndeavourOS, Garuda, etc.).
+This script automates the installation of essential gaming tools on **Arch Linux** and Arch-based distributions (Nyarch, Manjaro, EndeavourOS, Garuda,Steam OS,  etc.).
 
 ## Features
 
