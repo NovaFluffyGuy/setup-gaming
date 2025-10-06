@@ -35,7 +35,7 @@ fi
 
 echo "[?] Choose a music player to install:"
 echo "1) Spotify"
-echo "2) SoundCloud"
+echo "2) SoundCloud (doesn't work)"
 read -rp "Choice (1/2): " music_choice
 
 case "$music_choice" in
@@ -82,3 +82,4 @@ else
 fi
 
 echo "[✔] Setup complete! Please restart your system for all changes to take effect."
+echo "Thank you for choosing Setup-gaming by Novafluffyguy :3"
